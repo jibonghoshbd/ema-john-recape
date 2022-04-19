@@ -1,0 +1,18 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.product-available {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.product-container {
+    margin-left: 5rem;
+    border-right: 1px solid lightgray;
+}
+
+.cart-container {
+    padding: 1rem;
+}

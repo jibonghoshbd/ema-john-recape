@@ -1,0 +1,21 @@
+.product {
+    display: flex;
+    align-items: center;
+}
+
+.product-details {
+    margin-left: 1rem;
+}
+
+.product-details h3 {
+    color: blue;
+}
+
+.regural-btn {
+    background-color: goldenrod;
+    border: 1px solid lightgray;
+    padding: 0.5rem 1.5rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
